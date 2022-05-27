@@ -1,6 +1,6 @@
 /**
 * @description Controlls a custom Menu for SL Modules
-* @author Brent Williams <brent.williams@ddincmail.org> (https://www.github.com/DDincBrent).
+* @author Brent Williams <functnal@gmail.com> (https://www.github.com/JustBarnt)
 * @class MenuController
 * 
 * @param {Array} modal Array of items in the background. EX: Modal, Title, TitleBar -- Use the same accessibilty name for them.
