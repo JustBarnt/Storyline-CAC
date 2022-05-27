@@ -1,6 +1,6 @@
 /**
 * @description Controlls a the Progress Element
-* @author Brent Williams <brent.williams@ddincmail.org> (https://www.github.com/DDincBrent).
+* @author Brent Williams <functnal@gmail.com> (https://www.github.com/JustBarnt)
 * @class CaptionController
 * 
 * @param {NodeList} progress Node Selector of the progress bar.
