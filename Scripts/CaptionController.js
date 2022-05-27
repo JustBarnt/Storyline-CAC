@@ -1,6 +1,6 @@
 /**
 * @description Controlls a the CC Text in SL
-* @author Brent Williams <brent.williams@ddincmail.org> (https://www.github.com/DDincBrent).
+* @author Brent Williams <functnal@gmail.com> (https://www.github.com/JustBarnt).
 * @class CaptionController
 * 
 * @param {NodeList} caption Node Selector of the CC Box
